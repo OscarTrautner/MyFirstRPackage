@@ -1,4 +1,4 @@
-#' Split a string into parts
+#' Split a string into multiple parts based on a delimiter
 #'
 #' @param x A single character string.
 #' @param split The delimiter to split on.
